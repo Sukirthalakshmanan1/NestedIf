@@ -10,6 +10,7 @@ namespace NestedIf
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Open my repo");
         }
     }
 }
