@@ -16,7 +16,7 @@ namespace NestedIf
             n = Convert.ToInt32(Console.ReadLine());
             if (n != 0)
             {
-                if((n>0) && (n < 10))
+                if((n>0) && (n <10))
                 {
                     Console.WriteLine("n is from 0 to 9");
                 }
@@ -26,7 +26,7 @@ namespace NestedIf
                 }
                 else
                 {
-                    Console.WriteLine("n is greater than 10");
+                    Console.WriteLine("n is an integer");
                 }
             }
             Console.ReadLine();
