@@ -25,9 +25,9 @@ namespace NestedIf
 
                 }
                 else
-                {
+                
                     Console.WriteLine("n is an integer");
-                }
+                
             }
             Console.ReadLine();
 
