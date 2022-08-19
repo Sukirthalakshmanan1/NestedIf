@@ -29,6 +29,7 @@ namespace NestedIf
                     Console.WriteLine("n is greater than 10");
                 }
             }
+            Console.ReadLine();
 
         }
     }
